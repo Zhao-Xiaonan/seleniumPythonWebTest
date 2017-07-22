@@ -1,0 +1,1173 @@
+1500113531623	geckodriver	INFO	Listening on 127.0.0.1:53416
+1500113532769	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500113536055	Marionette	INFO	Listening on port 53429
+1500113536155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500113536525	Marionette	DEBUG	loaded listener.js
+1500113536569	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-15 18:12:16.679 plugin-container[29863:5977916] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-15 18:12:16.680 plugin-container[29863:5977916] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500113536874	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500113536875	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1500113537302	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113537379	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%7B&json=1&p=3&sid=1466_21125_17001_20927&csor=1&cb=jQuery1102010087016480407873_1500113537126&_=1500113537128, line 1: TypeError: jQuery1102010087016480407873_1500113537126 is not a function
+1500113537774	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113537781	Marionette	INFO	New connections will no longer be accepted
+1500113537969	geckodriver	INFO	Listening on 127.0.0.1:53555
+1500113539038	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500113541678	Marionette	INFO	Listening on port 53568
+1500113541754	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500113542125	Marionette	DEBUG	loaded listener.js
+1500113542214	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-15 18:12:22.259 plugin-container[29867:5978520] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-15 18:12:22.261 plugin-container[29867:5978520] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500113542396	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500113542396	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1500113542808	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113542878	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%5C&json=1&p=3&sid=1457_21121_17001_20928&csor=1&cb=jQuery1102041945070634227144_1500113542668&_=1500113542670, line 1: TypeError: jQuery1102041945070634227144_1500113542668 is not a function
+1500113543280	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113543285	Marionette	INFO	New connections will no longer be accepted
+1500113543577	geckodriver	INFO	Listening on 127.0.0.1:53674
+1500113544311	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500113547801	Marionette	INFO	Listening on port 53684
+1500113547896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500113548289	Marionette	DEBUG	loaded listener.js
+1500113548335	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-15 18:12:28.415 plugin-container[29874:5979779] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-15 18:12:28.416 plugin-container[29874:5979779] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500113548546	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500113548546	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1500113549001	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113549071	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=r&json=1&p=3&sid=1458_21122_22073&csor=1&cb=jQuery11020356279245180803_1500113548828&_=1500113548830, line 1: TypeError: jQuery11020356279245180803_1500113548828 is not a function
+1500113549483	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113549492	Marionette	INFO	New connections will no longer be accepted
+1500113549717	geckodriver	INFO	Listening on 127.0.0.1:53812
+1500113550815	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500113553497	Marionette	INFO	Listening on port 53825
+1500113553589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500113553961	Marionette	DEBUG	loaded listener.js
+1500113554016	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-15 18:12:34.112 plugin-container[29878:5980361] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-15 18:12:34.114 plugin-container[29878:5980361] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500113554243	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500113554243	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1500113554623	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113554704	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=t&json=1&p=3&sid=1461_21116_17001_20927&csor=1&cb=jQuery1102057009230284304_1500113554484&_=1500113554486, line 1: TypeError: jQuery1102057009230284304_1500113554484 is not a function
+1500113555111	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113555118	Marionette	INFO	New connections will no longer be accepted
+1500113555309	geckodriver	INFO	Listening on 127.0.0.1:53933
+1500113556383	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500113559179	Marionette	INFO	Listening on port 53946
+1500113559260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500113559624	Marionette	DEBUG	loaded listener.js
+1500113559677	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-15 18:12:39.736 plugin-container[29886:5980949] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-15 18:12:39.737 plugin-container[29886:5980949] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500113559882	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500113559882	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1500113625263	geckodriver	INFO	Listening on 127.0.0.1:54064
+1500113626385	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500113629271	Marionette	INFO	Listening on port 54077
+1500113629364	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500113629788	Marionette	DEBUG	loaded listener.js
+1500113629852	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-15 18:13:49.928 plugin-container[29944:5983356] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x943b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-15 18:13:49.929 plugin-container[29944:5983356] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500113630061	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500113630061	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1500113630493	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113630555	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%7B&json=1&p=3&sid=1436_21099_20928&csor=1&cb=jQuery1102018757858390959603_1500113630315&_=1500113630317, line 1: TypeError: jQuery1102018757858390959603_1500113630315 is not a function
+1500113630956	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113632973	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113633007	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113633010	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113633297	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113633364	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1500113633377	Marionette	INFO	New connections will no longer be accepted
+1500113653468	geckodriver	INFO	Listening on 127.0.0.1:54229
+1500113654554	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500113657399	Marionette	INFO	Listening on port 54243
+1500113657508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500113657861	Marionette	DEBUG	loaded listener.js
+1500113657916	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-15 18:14:17.982 plugin-container[29973:5985129] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-15 18:14:17.983 plugin-container[29973:5985129] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500113658159	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500113658159	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1500113658579	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113658649	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%7B&json=1&p=3&sid=1426_22534_13289_21091_20927&csor=1&cb=jQuery1102005260675108873847_1500113658417&_=1500113658419, line 1: TypeError: jQuery1102005260675108873847_1500113658417 is not a function
+1500113659056	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113661085	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113661297	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113661298	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113661496	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113661557	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%5C&json=1&p=3&sid=1426_22534_13289_21091_20927&csor=1&cb=jQuery1102029807690414150223_1500113661378&_=1500113661380, line 1: TypeError: jQuery1102029807690414150223_1500113661378 is not a function
+1500113661896	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113663915	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113663967	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113663969	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113664209	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113664267	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=r&json=1&p=3&sid=1426_22534_13289_21091_20927&csor=1&cb=jQuery1102016658438840293188_1500113664058&_=1500113664060, line 1: TypeError: jQuery1102016658438840293188_1500113664058 is not a function
+1500113664615	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113666637	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113666699	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113666700	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113666958	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113667029	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=t&json=1&p=3&sid=1426_22534_13289_21091_20927&csor=1&cb=jQuery11020026274709322542167_1500113666806&_=1500113666808, line 1: TypeError: jQuery11020026274709322542167_1500113666806 is not a function
+1500113667455	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113669479	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113669535	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113669540	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113669750	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113669809	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1500113670204	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113672232	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113672264	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113672265	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113672479	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113672537	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=1&json=1&p=3&sid=1426_22534_13289_21091_20927&csor=1&cb=jQuery1102032394879808606913_1500113672342&_=1500113672344, line 1: TypeError: jQuery1102032394879808606913_1500113672342 is not a function
+1500113672877	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113674900	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113674965	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113674967	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113675173	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113675234	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%5C&json=1&p=3&sid=1426_22534_13289_21091_20927&csor=1&cb=jQuery110205712389793818314_1500113675045&_=1500113675047, line 1: TypeError: jQuery110205712389793818314_1500113675045 is not a function
+1500113675577	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113677598	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113677628	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113677634	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113677858	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113677909	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=a&json=1&p=3&sid=1426_22534_13289_21091_20927&csor=1&cb=jQuery110207149245314927578_1500113677730&_=1500113677732, line 1: TypeError: jQuery110207149245314927578_1500113677730 is not a function
+1500113678253	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113680277	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113680334	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113680338	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113680553	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113680619	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1500113681048	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113683073	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113683131	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113683134	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113683370	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113683424	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1500113683804	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113685827	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113685873	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113685877	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113686167	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113686220	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=i&json=1&p=3&sid=1426_22534_13289_21091_20927&csor=1&cb=jQuery110205735530788862669_1500113686048&_=1500113686050, line 1: TypeError: jQuery110205735530788862669_1500113686048 is not a function
+1500113686628	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113688661	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113688717	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113688719	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113688920	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113688976	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%5C&json=1&p=3&sid=1426_22534_13289_21091_20927&csor=1&cb=jQuery1102031465639094102993_1500113688796&_=1500113688798, line 1: TypeError: jQuery1102031465639094102993_1500113688796 is not a function
+1500113689320	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113691345	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113691377	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113691383	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113691592	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113691640	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=a&json=1&p=3&sid=1426_22534_13289_21091_20927&csor=1&cb=jQuery110203917128874735032_1500113691461&_=1500113691463, line 1: TypeError: jQuery110203917128874735032_1500113691461 is not a function
+1500113691964	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113693985	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113694028	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113694032	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113694233	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113694293	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=n&json=1&p=3&sid=1426_22534_13289_21091_20927&csor=1&cb=jQuery110208403176111300115_1500113694100&_=1500113694102, line 1: TypeError: jQuery110208403176111300115_1500113694100 is not a function
+1500113694723	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113696742	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113696788	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113696795	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113696996	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113697052	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1426_22534_13289_21091_20927&csor=1&cb=jQuery110209005721829377119_1500113696872&_=1500113696874, line 1: TypeError: jQuery110209005721829377119_1500113696872 is not a function
+1500113697396	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113704443	geckodriver	INFO	Listening on 127.0.0.1:54481
+1500113705517	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500113708159	Marionette	INFO	Listening on port 54494
+1500113708256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500113783920	geckodriver	INFO	Listening on 127.0.0.1:54597
+1500113784971	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500113787502	Marionette	INFO	Listening on port 54610
+1500113787629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500113787925	Marionette	DEBUG	loaded listener.js
+1500113787973	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-15 18:16:28.043 plugin-container[30000:5988424] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-15 18:16:28.045 plugin-container[30000:5988424] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500113788206	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500113788207	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1500113788660	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113788733	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1500113789764	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113791789	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113791863	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113791867	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113792073	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113792118	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1500113792898	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113794917	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113794962	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113794964	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113795210	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113795271	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1500113796201	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113798236	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113798284	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113798289	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113798490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113798539	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1500113799176	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113801202	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113801246	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113801249	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113801469	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113801522	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1500113802684	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113804711	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1500113804751	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1500113804758	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1500113804959	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113805010	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1500113806717	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500113994453	geckodriver	INFO	Listening on 127.0.0.1:55151
+1500113995517	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500113998233	Marionette	INFO	Listening on port 55164
+1500113998303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500113998660	Marionette	DEBUG	loaded listener.js
+1500113998770	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-15 18:19:58.820 plugin-container[30020:5990768] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-15 18:19:58.821 plugin-container[30020:5990768] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500113999012	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500113999013	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1500113999476	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1500113999541	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1500114000567	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500300486956	geckodriver	INFO	Listening on 127.0.0.1:64755
+1500300488115	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500300491269	Marionette	INFO	Listening on port 64768
+1500300491410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500300491749	Marionette	DEBUG	loaded listener.js
+2017-07-17 22:08:11.865 plugin-container[31037:6228461] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 22:08:11.866 plugin-container[31037:6228461] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500300517849	Marionette	INFO	Ceased listening
+1500300519827	geckodriver	INFO	Listening on 127.0.0.1:64882
+1500300520932	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500300523522	Marionette	INFO	Listening on port 64895
+1500300523609	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500300523963	Marionette	DEBUG	loaded listener.js
+1500300524063	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 22:08:44.098 plugin-container[31044:6229271] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 22:08:44.099 plugin-container[31044:6229271] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500300524246	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500300524246	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500300524641	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500300525163	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500300526724	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500300546698	Marionette	INFO	Ceased listening
+1500300569210	geckodriver	INFO	Listening on 127.0.0.1:65015
+1500300570329	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500300572897	Marionette	INFO	Listening on port 65028
+1500300572984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500300573289	Marionette	DEBUG	loaded listener.js
+1500300573340	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 22:09:33.396 plugin-container[31052:6230205] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 22:09:33.397 plugin-container[31052:6230205] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500300573475	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500300573475	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500300573760	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500300574358	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500300575690	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500300575703	Marionette	INFO	New connections will no longer be accepted
+1500300648008	geckodriver	INFO	Listening on 127.0.0.1:65169
+1500300649069	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500300651550	Marionette	INFO	Listening on port 65182
+1500300651639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500300651955	Marionette	DEBUG	loaded listener.js
+1500300651999	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 22:10:52.067 plugin-container[31063:6231879] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 22:10:52.068 plugin-container[31063:6231879] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500300652176	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500300652177	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500300652582	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500300653092	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500300654645	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500300654652	Marionette	INFO	New connections will no longer be accepted
+1500300716486	geckodriver	INFO	Listening on 127.0.0.1:65303
+1500300717557	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500300720028	Marionette	INFO	Listening on port 65316
+1500300720108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500300720434	Marionette	DEBUG	loaded listener.js
+1500300720488	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 22:12:00.536 plugin-container[31072:6233346] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 22:12:00.538 plugin-container[31072:6233346] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500300720621	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500300720621	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500300720918	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500300721460	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500300723004	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500300723021	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/"
+1500300723273	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/"
+1500300723275	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/"
+1500300723460	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500300723737	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500300724699	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500300724780	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/"
+1500300724807	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/"
+1500300724808	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/"
+1500300724969	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500300725226	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500300726175	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500300726256	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/"
+1500300726300	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/"
+1500300726301	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/"
+1500300726481	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500300726752	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500300727361	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500300776979	geckodriver	INFO	Listening on 127.0.0.1:65448
+1500300778052	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500300780510	Marionette	INFO	Listening on port 65461
+1500300780587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500300780928	Marionette	DEBUG	loaded listener.js
+1500300780971	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 22:13:01.027 plugin-container[31084:6234657] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 22:13:01.029 plugin-container[31084:6234657] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500300781571	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500300781572	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500300781933	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500300784398	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500300785062	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500300785444	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1500300922626	geckodriver	INFO	Listening on 127.0.0.1:49241
+1500300923707	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500300926559	Marionette	INFO	Listening on port 49254
+1500300926671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500300927025	Marionette	DEBUG	loaded listener.js
+1500300927113	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 22:15:27.141 plugin-container[31093:6238186] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 22:15:27.143 plugin-container[31093:6238186] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500300927262	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500300927263	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500300927617	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500300928197	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500300929240	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500300931000	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500300934085	Marionette	INFO	New connections will no longer be accepted
+1500300976633	geckodriver	INFO	Listening on 127.0.0.1:49396
+1500300977705	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500300980351	Marionette	INFO	Listening on port 49409
+1500300980481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500300980782	Marionette	DEBUG	loaded listener.js
+1500300980847	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 22:16:20.899 plugin-container[31101:6239424] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 22:16:20.902 plugin-container[31101:6239424] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500300981041	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500300981042	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500300981438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500300981994	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500300983360	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500300984312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500300989329	Marionette	INFO	New connections will no longer be accepted
+1500301186978	geckodriver	INFO	Listening on 127.0.0.1:49591
+1500301188092	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500301190779	Marionette	INFO	Listening on port 49607
+1500301190852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500301191194	Marionette	DEBUG	loaded listener.js
+1500301191234	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 22:19:51.298 plugin-container[31120:6242095] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 22:19:51.299 plugin-container[31120:6242095] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500301191474	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500301191474	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500301191797	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500301192371	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500301193797	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500301194742	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500301199755	Marionette	INFO	New connections will no longer be accepted
+1500301212285	geckodriver	INFO	Listening on 127.0.0.1:49740
+1500301213367	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500301215937	Marionette	INFO	Listening on port 49753
+1500301216023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500301216367	Marionette	DEBUG	loaded listener.js
+1500301216417	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 22:20:16.470 plugin-container[31128:6243300] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 22:20:16.471 plugin-container[31128:6243300] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500301216553	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500301216554	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500301216842	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500301217309	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500301218683	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500301219541	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500301224567	Marionette	INFO	New connections will no longer be accepted
+1500301977412	geckodriver	INFO	Listening on 127.0.0.1:50189
+1500301978542	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500301981578	Marionette	INFO	Listening on port 50202
+1500301981713	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500301982040	Marionette	DEBUG	loaded listener.js
+1500301982087	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 22:33:02.165 plugin-container[31167:6255011] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 22:33:02.167 plugin-container[31167:6255011] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500301982304	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500301982304	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500301982670	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500301983275	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500301984362	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500301985898	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500301989174	Marionette	INFO	New connections will no longer be accepted
+1500302008360	geckodriver	INFO	Listening on 127.0.0.1:50381
+1500302009432	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500302012080	Marionette	INFO	Listening on port 50394
+1500302012172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500302012550	Marionette	DEBUG	loaded listener.js
+1500302012609	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 22:33:32.664 plugin-container[31175:6255853] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9633, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 22:33:32.665 plugin-container[31175:6255853] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500302012771	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500302012772	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500302013073	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500302013665	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500302015332	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500302016187	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500302019482	Marionette	INFO	New connections will no longer be accepted
+1500302077198	geckodriver	INFO	Listening on 127.0.0.1:50558
+1500302078297	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500302080954	Marionette	INFO	Listening on port 50571
+1500302081038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500302081397	Marionette	DEBUG	loaded listener.js
+1500302081440	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 22:34:41.511 plugin-container[31183:6256981] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 22:34:41.513 plugin-container[31183:6256981] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500302081576	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500302081577	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500302081875	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500302082586	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500302084062	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500302085031	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500302088583	Marionette	INFO	New connections will no longer be accepted
+1500302122423	geckodriver	INFO	Listening on 127.0.0.1:50718
+1500302123497	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500302126750	Marionette	INFO	Listening on port 50731
+1500302126841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500302127237	Marionette	DEBUG	loaded listener.js
+1500302127284	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 22:35:27.363 plugin-container[31191:6258429] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 22:35:27.364 plugin-container[31191:6258429] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500302127439	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500302127440	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500302127801	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500302128603	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500302130329	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500302131357	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500302136474	Marionette	INFO	New connections will no longer be accepted
+1500302181683	geckodriver	INFO	Listening on 127.0.0.1:50931
+1500302182801	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500302185460	Marionette	INFO	Listening on port 50944
+1500302185550	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500302185901	Marionette	DEBUG	loaded listener.js
+1500302185944	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 22:36:26.012 plugin-container[31198:6260022] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 22:36:26.013 plugin-container[31198:6260022] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500302186209	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500302186209	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500302186541	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500302187215	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500302188735	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500302189619	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500302196761	Marionette	INFO	New connections will no longer be accepted
+1500302306501	geckodriver	INFO	Listening on 127.0.0.1:51113
+1500302307568	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500302310278	Marionette	INFO	Listening on port 51126
+1500302310407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500302310747	Marionette	DEBUG	loaded listener.js
+1500302310806	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 22:38:30.860 plugin-container[31206:6263604] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 22:38:30.862 plugin-container[31206:6263604] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500302311069	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500302311069	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500302311375	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500302313644	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500302314203	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500302315126	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500302322215	Marionette	INFO	New connections will no longer be accepted
+1500302342449	geckodriver	INFO	Listening on 127.0.0.1:51290
+1500302343521	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500302346287	Marionette	INFO	Listening on port 51303
+1500302346380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500302346767	Marionette	DEBUG	loaded listener.js
+1500302346816	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 22:39:06.891 plugin-container[31216:6264849] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 22:39:06.892 plugin-container[31216:6264849] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500302346998	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500302346998	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500302347309	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500302347850	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500302348955	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500302350713	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500302357814	Marionette	INFO	New connections will no longer be accepted
+1500304140146	geckodriver	INFO	Listening on 127.0.0.1:51814
+1500304141284	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500304144797	Marionette	INFO	Listening on port 51827
+1500304144897	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500304145347	Marionette	DEBUG	loaded listener.js
+2017-07-17 23:09:05.477 plugin-container[31351:6278721] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 23:09:05.478 plugin-container[31351:6278721] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500304159125	Marionette	INFO	Ceased listening
+1500304166471	geckodriver	INFO	Listening on 127.0.0.1:51954
+1500304167567	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500304170472	Marionette	INFO	Listening on port 51967
+1500304170562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500304170917	Marionette	DEBUG	loaded listener.js
+1500304170971	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 23:09:31.030 plugin-container[31359:6279185] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x973f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 23:09:31.033 plugin-container[31359:6279185] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500304171136	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500304171137	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500304171540	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500304172134	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500304173288	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304174948	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304182386	Marionette	INFO	New connections will no longer be accepted
+1500304206405	geckodriver	INFO	Listening on 127.0.0.1:52137
+1500304207479	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500304210335	Marionette	INFO	Listening on port 52150
+1500304210457	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500304210772	Marionette	DEBUG	loaded listener.js
+1500304210820	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 23:10:10.915 plugin-container[31368:6280057] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x983b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 23:10:10.916 plugin-container[31368:6280057] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500304210963	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500304210963	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500304211451	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500304212118	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500304213192	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304214928	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304222666	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304224681	Marionette	INFO	New connections will no longer be accepted
+1500304388833	geckodriver	INFO	Listening on 127.0.0.1:52328
+1500304389936	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500304392740	Marionette	INFO	Listening on port 52341
+1500304392862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500304393205	Marionette	DEBUG	loaded listener.js
+1500304393261	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 23:13:13.318 plugin-container[31380:6282181] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 23:13:13.320 plugin-container[31380:6282181] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9907, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500304393459	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500304393459	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500304393781	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500304394319	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500304395817	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304396770	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304402102	Marionette	INFO	New connections will no longer be accepted
+1500304421963	geckodriver	INFO	Listening on 127.0.0.1:52499
+1500304423039	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500304425888	Marionette	INFO	Listening on port 52512
+1500304426025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500304426352	Marionette	DEBUG	loaded listener.js
+1500304426400	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 23:13:46.474 plugin-container[31388:6283407] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 23:13:46.475 plugin-container[31388:6283407] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500304426586	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500304426586	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500304426928	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500304427404	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500304428528	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304430224	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304437953	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304441969	Marionette	INFO	New connections will no longer be accepted
+1500304521384	geckodriver	INFO	Listening on 127.0.0.1:52688
+1500304522488	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500304525232	Marionette	INFO	Listening on port 52701
+1500304525391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500304525732	Marionette	DEBUG	loaded listener.js
+1500304525787	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 23:15:25.867 plugin-container[31395:6285490] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 23:15:25.868 plugin-container[31395:6285490] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500304525950	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500304525951	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500304526305	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500304526814	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500304528301	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304529174	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304536900	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304538948	Marionette	INFO	New connections will no longer be accepted
+1500304629854	geckodriver	INFO	Listening on 127.0.0.1:52869
+1500304630928	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500304633738	Marionette	INFO	Listening on port 52882
+1500304633823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500304634191	Marionette	DEBUG	loaded listener.js
+1500304634266	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 23:17:14.337 plugin-container[31406:6287841] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 23:17:14.339 plugin-container[31406:6287841] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500304634466	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500304634468	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500304634796	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500304635274	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500304636330	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304638110	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304645838	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304647886	Marionette	INFO	New connections will no longer be accepted
+1500304910381	geckodriver	INFO	Listening on 127.0.0.1:53063
+1500304911455	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500304914363	Marionette	INFO	Listening on port 53076
+1500304914462	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500304914835	Marionette	DEBUG	loaded listener.js
+1500304914887	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 23:21:54.960 plugin-container[31417:6290858] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 23:21:54.961 plugin-container[31417:6290858] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500304915170	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500304915170	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500304915571	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500304916203	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500304917732	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304918677	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304926414	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304928670	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304930683	Marionette	INFO	New connections will no longer be accepted
+1500304939029	geckodriver	INFO	Listening on 127.0.0.1:53254
+1500304940099	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500304942884	Marionette	INFO	Listening on port 53267
+1500304943004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500304943375	Marionette	DEBUG	loaded listener.js
+1500304943428	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 23:22:23.502 plugin-container[31424:6292337] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 23:22:23.505 plugin-container[31424:6292337] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500304943580	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500304943580	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500304943964	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500304944443	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500304945984	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304946877	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304954567	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304956820	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500304958829	Marionette	INFO	New connections will no longer be accepted
+1500305250579	geckodriver	INFO	Listening on 127.0.0.1:53464
+1500305251673	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500305254572	Marionette	INFO	Listening on port 53477
+1500305254698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500305255015	Marionette	DEBUG	loaded listener.js
+1500305255059	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 23:27:35.134 plugin-container[31441:6297357] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 23:27:35.136 plugin-container[31441:6297357] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500305255248	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500305255249	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500305255641	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500305256167	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500305257315	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500305259148	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500305264238	Marionette	INFO	New connections will no longer be accepted
+1500305308188	geckodriver	INFO	Listening on 127.0.0.1:53662
+1500305309271	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500305312144	Marionette	INFO	Listening on port 53675
+1500305312247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500305312620	Marionette	DEBUG	loaded listener.js
+1500305312669	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 23:28:32.734 plugin-container[31452:6298960] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 23:28:32.735 plugin-container[31452:6298960] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500305312835	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500305312836	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500305313119	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500305315632	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500305315979	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500305316822	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500305322007	Marionette	INFO	New connections will no longer be accepted
+1500305342218	geckodriver	INFO	Listening on 127.0.0.1:53850
+1500305343320	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500305346344	Marionette	INFO	Listening on port 53863
+1500305346434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500305346792	Marionette	DEBUG	loaded listener.js
+1500305346848	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 23:29:06.905 plugin-container[31460:6300380] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 23:29:06.906 plugin-container[31460:6300380] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500305346985	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500305346986	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500305347271	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500305347920	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500305349016	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500305350652	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500305358354	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500305360614	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500305364625	Marionette	INFO	New connections will no longer be accepted
+1500305786766	geckodriver	INFO	Listening on 127.0.0.1:54086
+1500305787840	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500305790629	Marionette	INFO	Listening on port 54099
+1500305790715	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500305791099	Marionette	DEBUG	loaded listener.js
+1500305791153	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 23:36:31.222 plugin-container[31475:6305323] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 23:36:31.223 plugin-container[31475:6305323] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500305791353	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500305791353	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500305791659	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500305792445	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500305793543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500305795116	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500305800132	Marionette	INFO	New connections will no longer be accepted
+1500384313202	geckodriver	INFO	Listening on 127.0.0.1:54922
+1500384314380	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500384317524	Marionette	INFO	Listening on port 54935
+1500384317635	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500384317984	Marionette	DEBUG	loaded listener.js
+1500384318073	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-18 21:25:18.106 plugin-container[31669:6333640] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-18 21:25:18.107 plugin-container[31669:6333640] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500384318263	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500384318263	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500384318622	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500384319528	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500384320728	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500384322442	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500384355633	geckodriver	INFO	Listening on 127.0.0.1:55079
+1500384356765	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500384359912	Marionette	INFO	Listening on port 55092
+1500384360009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500384360369	Marionette	DEBUG	loaded listener.js
+1500384360422	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-18 21:26:00.498 plugin-container[31678:6334993] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-18 21:26:00.500 plugin-container[31678:6334993] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500384362544	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500384362545	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500384362921	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500384365521	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500384367167	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500384368255	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500384391629	Marionette	INFO	Ceased listening
+1500384393683	Marionette	INFO	Ceased listening
+1500384560375	geckodriver	INFO	Listening on 127.0.0.1:55338
+1500384561485	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+JavaScript error: chrome://marionette/content/server.js, line 330: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+2017-07-18 21:29:25.143 plugin-container[31687:6336445] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-18 21:29:25.144 plugin-container[31687:6336445] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500384664649	geckodriver	INFO	Listening on 127.0.0.1:55391
+1500384665730	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500384668773	Marionette	INFO	Listening on port 55405
+1500384668868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500384669217	Marionette	DEBUG	loaded listener.js
+1500384669264	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-18 21:31:09.324 plugin-container[31699:6338650] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-18 21:31:09.325 plugin-container[31699:6338650] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500384669465	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500384669465	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500384669768	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500384670397	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500384671521	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500384673189	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500384752495	geckodriver	INFO	Listening on 127.0.0.1:55594
+1500384753605	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500384757114	Marionette	INFO	Listening on port 55607
+1500384757207	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500384757650	Marionette	DEBUG	loaded listener.js
+1500384757700	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-18 21:32:37.796 plugin-container[31708:6339741] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-18 21:32:37.797 plugin-container[31708:6339741] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500384757892	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500384757892	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500384758459	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500384759118	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500384760386	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500384762248	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500384789390	Marionette	INFO	Ceased listening
+1500384792015	Marionette	INFO	Ceased listening
+1500384913542	geckodriver	INFO	Listening on 127.0.0.1:55820
+1500384914656	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500384917483	Marionette	INFO	Listening on port 55833
+1500384917574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500384917951	Marionette	DEBUG	loaded listener.js
+1500384918005	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-18 21:35:18.094 plugin-container[31718:6342308] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-18 21:35:18.095 plugin-container[31718:6342308] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500384918194	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500384918195	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500384918594	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500384919134	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500384920246	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500384921731	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/mantpl/js/mine/index_4cc9095b.js, line 1: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400AB,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1500385007468	Marionette	INFO	Ceased listening
+1500385082386	geckodriver	INFO	Listening on 127.0.0.1:56123
+1500385083490	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500385086401	Marionette	INFO	Listening on port 56136
+1500385086502	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500385086873	Marionette	DEBUG	loaded listener.js
+1500385086923	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-18 21:38:06.990 plugin-container[31728:6345140] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-18 21:38:06.992 plugin-container[31728:6345140] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500385087162	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500385087162	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500385087494	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500385088117	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500385089216	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500385090923	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500385095950	Marionette	INFO	New connections will no longer be accepted
+1500385165774	geckodriver	INFO	Listening on 127.0.0.1:56302
+1500385166851	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500385169569	Marionette	INFO	Listening on port 56315
+1500385169662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500385170003	Marionette	DEBUG	loaded listener.js
+1500385170064	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-18 21:39:30.117 plugin-container[31736:6347069] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x973b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-18 21:39:30.118 plugin-container[31736:6347069] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500385170239	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500385170240	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500385170586	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500385171216	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500385172666	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500385173614	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500385188186	Marionette	INFO	New connections will no longer be accepted
+1500385287724	geckodriver	INFO	Listening on 127.0.0.1:56953
+1500385288802	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500385291578	Marionette	INFO	Listening on port 56966
+1500385291691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500385292044	Marionette	DEBUG	loaded listener.js
+1500385292111	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-18 21:41:32.177 plugin-container[31744:6349629] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-18 21:41:32.178 plugin-container[31744:6349629] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500385292320	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500385292320	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500385292697	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500385293256	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500385294492	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500385296070	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500385313319	Marionette	INFO	New connections will no longer be accepted
+1500385359733	geckodriver	INFO	Listening on 127.0.0.1:57622
+1500385360807	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500385363708	Marionette	INFO	Listening on port 57635
+1500385363816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500385364172	Marionette	DEBUG	loaded listener.js
+1500385364228	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-18 21:42:44.300 plugin-container[31754:6351483] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-18 21:42:44.301 plugin-container[31754:6351483] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500385364416	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500385364416	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500385364785	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500385365352	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500385366518	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500385368095	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500385381591	Marionette	INFO	New connections will no longer be accepted
+1500385609949	geckodriver	INFO	Listening on 127.0.0.1:58309
+1500385611021	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500385613796	Marionette	INFO	Listening on port 58323
+1500385613922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500385614449	Marionette	DEBUG	loaded listener.js
+1500385614524	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-18 21:46:54.614 plugin-container[31763:6355316] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-18 21:46:54.615 plugin-container[31763:6355316] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500385614740	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500385614740	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500385615170	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500385615793	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500385617402	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500385618441	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500385633374	Marionette	INFO	New connections will no longer be accepted
+1500385652005	geckodriver	INFO	Listening on 127.0.0.1:58957
+1500385653086	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500385655946	Marionette	INFO	Listening on port 58970
+1500385656055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500385656447	Marionette	DEBUG	loaded listener.js
+1500385656500	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-18 21:47:36.569 plugin-container[31773:6356224] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-18 21:47:36.570 plugin-container[31773:6356224] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500385656675	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500385656675	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500385657002	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500385657656	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500385659136	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500385660242	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500385674298	Marionette	INFO	New connections will no longer be accepted
+1500385788795	geckodriver	INFO	Listening on 127.0.0.1:59639
+1500385789889	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500385793228	Marionette	INFO	Listening on port 59652
+1500385793326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500385793791	Marionette	DEBUG	loaded listener.js
+1500385793875	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-18 21:49:53.941 plugin-container[31808:6358455] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-18 21:49:53.947 plugin-container[31808:6358455] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500385794052	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500385794052	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500385794632	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500385795326	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500385796964	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500385798049	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500385812681	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1500385812875	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1500385812879	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1500385813888	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/share/manage"
+1500385814023	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/share/manage"
+1500385816038	Marionette	INFO	New connections will no longer be accepted
+1500385860405	geckodriver	INFO	Listening on 127.0.0.1:60338
+1500385861487	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500385864398	Marionette	INFO	Listening on port 60351
+1500385864497	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500385864899	Marionette	DEBUG	loaded listener.js
+1500385864942	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-18 21:51:05.006 plugin-container[31820:6360335] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-18 21:51:05.008 plugin-container[31820:6360335] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500385865101	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500385865102	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500385865476	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500385866158	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500385867267	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500385868942	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500385882953	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1500385883149	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1500385883154	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1500385883748	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/share/manage"
+1500385883850	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/share/manage"
+1500385888142	Marionette	INFO	New connections will no longer be accepted
+1500386169373	geckodriver	INFO	Listening on 127.0.0.1:61461
+1500386170529	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500386173838	Marionette	INFO	Listening on port 61474
+1500386173956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500386174306	Marionette	DEBUG	loaded listener.js
+1500386174370	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-18 21:56:14.441 plugin-container[31845:6369996] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-18 21:56:14.442 plugin-container[31845:6369996] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500386174595	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500386174603	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500386175113	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500386175762	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500386177312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500386178316	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500386193586	Marionette	DEBUG	Received DOM event "beforeunload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1500386193670	Marionette	DEBUG	Received DOM event "pagehide" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1500386193676	Marionette	DEBUG	Received DOM event "unload" for "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0#list/path=%2F&vmode=list"
+1500386194766	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/share/manage"
+1500386195201	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/share/manage"
+1500386197714	Marionette	INFO	New connections will no longer be accepted
+1500479908212	geckodriver	INFO	Listening on 127.0.0.1:52326
+1500479909335	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500479912372	Marionette	INFO	Listening on port 52339
+1500479912466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500479912812	Marionette	DEBUG	loaded listener.js
+1500479912857	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-19 23:58:32.925 plugin-container[32633:6488613] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-19 23:58:32.927 plugin-container[32633:6488613] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500479913050	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500479913051	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500479913433	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500479914041	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500479915092	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500479916706	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500479924406	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500479926658	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500479930674	Marionette	INFO	New connections will no longer be accepted
+1500479970488	geckodriver	INFO	Listening on 127.0.0.1:52520
+1500479971573	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500479974427	Marionette	INFO	Listening on port 52533
+1500479974515	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500479974892	Marionette	DEBUG	loaded listener.js
+1500479974941	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-19 23:59:35.016 plugin-container[32661:6489930] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-19 23:59:35.018 plugin-container[32661:6489930] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500479975085	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500479975086	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500479975429	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500479975956	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500479977006	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500479978526	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500479986314	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500479988572	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500479992586	Marionette	INFO	New connections will no longer be accepted
+1500480836017	geckodriver	INFO	Listening on 127.0.0.1:52756
+1500480837148	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500480840174	Marionette	INFO	Listening on port 52769
+1500480840267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500480840620	Marionette	DEBUG	loaded listener.js
+1500480840680	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-20 00:14:00.742 plugin-container[32742:6494115] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-20 00:14:00.743 plugin-container[32742:6494115] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500480840893	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500480840893	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500480841337	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500480841917	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500480843386	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500480844419	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500480852110	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500480854361	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500480858373	Marionette	INFO	New connections will no longer be accepted
+1500480978247	geckodriver	INFO	Listening on 127.0.0.1:53397
+1500480979328	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500480981865	Marionette	INFO	Listening on port 53410
+1500480981974	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500480982347	Marionette	DEBUG	loaded listener.js
+1500480982390	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-20 00:16:22.459 plugin-container[32819:6497865] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-20 00:16:22.460 plugin-container[32819:6497865] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500480982546	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500480982547	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500480983141	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500480983734	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500480985290	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500480986179	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500480993900	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500480996154	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500481000170	Marionette	INFO	New connections will no longer be accepted
+1500481077820	geckodriver	INFO	Listening on 127.0.0.1:53745
+1500481078904	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500481081827	Marionette	INFO	Listening on port 53758
+1500481081923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500481082297	Marionette	DEBUG	loaded listener.js
+1500481082353	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-20 00:18:02.400 plugin-container[32852:6499625] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-20 00:18:02.401 plugin-container[32852:6499625] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1500481082507	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500481082508	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500481082859	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1500481083408	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1500481084534	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500481086074	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500481093786	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500481096039	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500481100048	Marionette	INFO	New connections will no longer be accepted
