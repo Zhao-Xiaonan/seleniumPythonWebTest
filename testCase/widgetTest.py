@@ -14,9 +14,11 @@ class WidgetTestCase(unittest.TestCase):#TestCase对特定类进行测试的方�
 		self.widget = None
 
 	def testSize(self):
+		u'''检查初始值'''
 		self.assertEqual(self.widget.getSize(),(40,40))
 
 	def testResize(self):
+		u'''重新设置长和宽'''
 		self.widget.resize(100,100)
 		self.assertEqual(self.widget.getSize(),(100,100))
 

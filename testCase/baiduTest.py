@@ -5,7 +5,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import NoSuchElementException
-import unittest,time
+import unittest,time,os
 # import HTMLTestRunner
 
 class Baidu(unittest.TestCase):
@@ -18,7 +18,7 @@ class Baidu(unittest.TestCase):
         self.accept_next_alert = True#是否接受下一个警告
     
     def testSearch(self):
-        u"""百度搜索"""   #添加注释
+        u"""搜索功能"""   #添加注释
         driver = self.driver
         driver.get(self.base_url + "/")
         driver.find_element_by_id("kw").clear()
@@ -27,7 +27,7 @@ class Baidu(unittest.TestCase):
         time.sleep(2)
     
     def testSet(self):
-        u"""百度搜索"""   #添加注释
+        u"""搜索设置"""   #添加注释
         driver = self.driver
         # 设置每页搜索即如果100条
         driver.get(self.base_url + "/cache/sethelp/help.html")
@@ -71,7 +71,7 @@ if __name__ == "__main__":
     # testunit.addTest(Baidu("testSearch"))
     # testunit.addTest(Baidu("testSet"))
     # # 定义报告存放路径
-    # filename = "./result.html"
+    # filename = "./baiduTest.html"
     # fp = file(filename,'wb')
     # # 定义测试报告
     # runner = HTMLTestRunner.HTMLTestRunner(

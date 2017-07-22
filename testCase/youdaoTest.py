@@ -18,7 +18,7 @@ class YouDao(unittest.TestCase):
 		self.accept_next_alert = True
 
 	def testSearch(self):
-		u"""有道搜索"""
+		u"""搜索功能"""
 		driver = self.driver
 		driver.get(self.base_url + '/')
 

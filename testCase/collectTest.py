@@ -1,4 +1,3 @@
-#!/usr/bin/python
 #-*-coding:utf-8-*-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -8,7 +7,7 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import NoSuchElementException
 import unittest,time
-import login,logout
+from public import *
 
 class webCollect(unittest.TestCase):  #继承unittest.TestCase
 
@@ -22,7 +21,8 @@ class webCollect(unittest.TestCase):  #继承unittest.TestCase
 		login.login(self)
 		time.sleep(2)
 
-	def test_collect(self):
+	def testCollect(self):
+		u'''增加文件夹'''
 		driver = self.driver
 		inputs = driver.find_elements_by_tag_name("span")
 		n = 0

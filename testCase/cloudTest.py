@@ -6,8 +6,10 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import NoSuchElementException
-import unittest,time
-import login,logout
+import unittest,time,os
+import sys
+sys.path.append("/public")
+from public import *
 
 class webOperation(unittest.TestCase):  #继承unittest.TestCase
 
@@ -19,7 +21,8 @@ class webOperation(unittest.TestCase):  #继承unittest.TestCase
 		self.accept_next_alert = True  #是否接受下一个警告
 		print 'set up'
 
-	def test_login(self):
+	def testLogin(self):
+		u"""读取用户名、密码文件，自动登录"""
 		driver = self.driver #在login方法中使用driver操作浏览器
 		# driver.get(self.base url"/login/?...")
 		driver.get(self.base_url)
