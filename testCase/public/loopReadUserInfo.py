@@ -13,7 +13,7 @@ for us,pw in info.items():
 
 
 
-my_file = '/Users/zhaoxiaonan/Git/seleniumPythonWebTest/userInfo.csv'
+my_file = '../../testData/userInfo.csv'
 data = csv.reader(file(my_file,'rb'))
 
 for user in data:
