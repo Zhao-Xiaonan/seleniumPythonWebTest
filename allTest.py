@@ -11,19 +11,6 @@ allTestName = allCaseList.caseList()
 for test in allTestName:
 	testAll.addTest(unittest.makeSuite(test))
 
-# 使用discover方法，不需要列出全部测试文件，自动识别*Test.py文件执行
-# listDir = './testCase/'
-# def creatsuitel():
-# 	discover = unittest.defaultTestLoader.discover(listDir,
-# 		pattern = '*Test.py',
-# 		top_level_dir = None)
-# 	for test in discover:
-# 		for testCase in test:
-# 			testAll.addTest(testCase)
-# 			print testAll
-# 		return testAll
-# allCaseName = creatsuitel()
-
 # 执行，不生成报告
 # 把TestSuite传给TestRunner进行执行
 # unittest.TextTestRunner().run(testAll)
