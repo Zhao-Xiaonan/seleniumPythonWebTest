@@ -4,14 +4,14 @@ import commands
 from email.mime.text import MIMEText
 import HTMLTestRunner
 import sys
-sys.path.append('../')
+sys.path.append('./')
 
 def EEEcreatsuite():
-	# 读取selenium目录下的文件，
+	# 读取thread目录下的文件，
 	# 找到名字包含thread的文件夹（thread1/2），
 	# 添加到casedir数据组
 	casedir = []
-	listaa = os.listdir('../')
+	listaa = os.listdir('./')
 	for xx in listaa:
 		if 'thread' in xx:
 			casedir.append(xx)
@@ -25,20 +25,20 @@ def EEEcreatsuite():
 		testunit = unittest.TestSuite()
 		discover = unittest.defaultTestLoader.discover(str(n),
 			pattern = 'start*.py',
-			top_level_dir = r'../../')
+			top_level_dir = r'./')
 		for testSuite in discover:
-			for testCase in testSuite:
-				testunit.addTests(testCase)
-				#print testunit
+			for test in testSuite:
+				testunit.addTests(test)
+				print testunit
 			suite.append(testunit)
 		return suite,casedir
 
 def EEEEEmultiRunCase(suite,casedir):
 	now = time.strftime("%Y-%m-%d %H_%M_%S",time.localtime(time.time()))
-	filename = "" + now + " report.html"
+	filename = "./result/" + now + " report.html"
 	fp = file(filename,'wb')
 
-	# 定义proclist函数把suite数组中的用例之心个结果写入THMLTestRunner报告，
+	# 定义proclist函数把suite数组中的用例执行结果写入THMLTestRunner报告，
 	proclist = []
 	s = 0
 	for i in suite:
@@ -48,8 +48,7 @@ def EEEEEmultiRunCase(suite,casedir):
 			description = u'用例执行情况:',
 			)
 
-	proc = multiprocessing.Process(target = runner.run,
-		args = (i,))
+	proc = multiprocessing.Process(target = runner.run,args = (i,))
 	proclist.append(proc)
 	s = s + 1
 	for proc in proclist:proc.start()

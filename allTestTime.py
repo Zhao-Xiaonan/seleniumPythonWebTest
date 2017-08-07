@@ -2,10 +2,12 @@
 import unittest
 import HTMLTestRunner
 import time,os
+from time import strftime
 
 # 使用discover方法，不需要列出全部测试文件，自动识别*Test.py文件执行
 listDir = './testCase/'
-def creatsuitel():
+
+def creatsuite():
 	testAll = unittest.TestSuite()
 	discover = unittest.defaultTestLoader.discover(listDir,
 		pattern = 'start*.py',
@@ -14,8 +16,9 @@ def creatsuitel():
 		for testCase in test:
 			testAll.addTest(testCase)
 			print testAll
-		return testAll
-allCaseName = creatsuitel()
+	return testAll
+
+allCaseName = creatsuite()
 
 # 执行，不生成报告
 # 把TestSuite传给TestRunner进行执行
@@ -33,13 +36,13 @@ runner = HTMLTestRunner.HTMLTestRunner(
 
 # 控制时间执行
 k = 1
-while k < 2:
-	timing = time.strftime('%H_%M',time.localtime(time.time()))
+while k == 1:
+	timing = strftime('%H_%M',time.localtime(time.time()))
 	if timing == '12_00':
 		print u"开始运行脚本："
-		runner.run(alltestnames)
+		runner.run(allCaseName)
 		print u"运行完成退出"
 		break
 	else:
-		time.sleep(5)
+		time.sleep(20)
 		print timing
