@@ -1,48 +1,45 @@
-1500477990528	geckodriver	INFO	Listening on 127.0.0.1:49678
-1500477991673	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
-1500477994855	Marionette	INFO	Listening on port 49691
-1500477994987	Marionette	WARN	TLS certificate errors will be ignored for this session
-1500477995436	Marionette	DEBUG	loaded listener.js
-1500477995536	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
-2017-07-19 23:26:35.586 plugin-container[32361:6459040] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
-See /usr/include/servers/bootstrap_defs.h for the error codes.
-2017-07-19 23:26:35.587 plugin-container[32361:6459040] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a03, name = 'com.apple.CFPasteboardClient'
-See /usr/include/servers/bootstrap_defs.h for the error codes.
-1500477995750	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
-1500477995750	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
-1500477996161	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
-1500477996743	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
-1500477997966	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
-1500477999555	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
-1500478007271	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
-1500478009526	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
-1500478013538	Marionette	INFO	New connections will no longer be accepted
-1500478151189	geckodriver	INFO	Listening on 127.0.0.1:49894
-1500478152259	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
-1500478154732	Marionette	INFO	Listening on port 49907
-1500478154800	Marionette	WARN	TLS certificate errors will be ignored for this session
-1500478155133	Marionette	DEBUG	loaded listener.js
-1500478155179	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
-2017-07-19 23:29:15.261 plugin-container[32376:6461048] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
-See /usr/include/servers/bootstrap_defs.h for the error codes.
-2017-07-19 23:29:15.265 plugin-container[32376:6461048] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
-See /usr/include/servers/bootstrap_defs.h for the error codes.
-1500478155462	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
-1500478155463	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
-JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
-1500478155861	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
-1500478155968	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
-1500478156493	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
-1500478158610	geckodriver	INFO	Listening on 127.0.0.1:50040
-1500478159683	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
-1500478162176	Marionette	INFO	Listening on port 50053
-1500478162306	Marionette	WARN	TLS certificate errors will be ignored for this session
-1500478162570	Marionette	DEBUG	loaded listener.js
-1500478162609	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
-2017-07-19 23:29:22.696 plugin-container[32380:6461611] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
-See /usr/include/servers/bootstrap_defs.h for the error codes.
-2017-07-19 23:29:22.701 plugin-container[32380:6461611] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9907, name = 'com.apple.CFPasteboardClient'
-See /usr/include/servers/bootstrap_defs.h for the error codes.
+1506422545087	geckodriver	INFO	geckodriver 0.18.0
+1506422545095	geckodriver	INFO	Listening on 127.0.0.1:56839
+1506422547194	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506422548999	Marionette	INFO	Enabled via --marionette
+1506422552621	Marionette	INFO	Listening on port 56859
+1506422552649	Marionette	INFO	Listening on port 56859
+1506422552920	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506422552958	Marionette	DEBUG	loaded listener.js
+1506422553011	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506422553195	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506422553196	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506422555044	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pan.baidu.com/"
+1506422559190	Marionette	DEBUG	Received DOM event "pageshow" for "https://pan.baidu.com/"
+1506422559500	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506422560439	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506422568484	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506422570733	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506422574742	Marionette	INFO	New connections will no longer be accepted
+422537155	Marionette	DEBUG	loaded listener.js
+1506422537199	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506422537255	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506422537255	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506422537978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.youdao.com/"
+1506422538381	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://c.youdao.com/www/banner.html"
+1506422538806	Marionette	DEBUG	Received DOM event "pageshow" for "https://c.youdao.com/www/banner.html"
+1506422540145	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.youdao.com/"
+1506422540287	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.youdao.com/"
+1506422540376	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.youdao.com/"
+1506422540377	Marionette	DEBUG	Received DOM event "unload" for "http://www.youdao.com/"
+1506422540622	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1506422540623	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1506422540999	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://c.youdao.com/www/app.html"
+1506422541231	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.youdao.com/w/eng/%E8%99%AB%E5%B8%88/#keyfrom=dict2.index"
+1506422541338	Marionette	DEBUG	Received DOM event "pageshow" for "https://c.youdao.com/www/app.html"
+1506422541435	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://impservice.youdao.com/imp/request.s?req=https%3A%2F%2Fdict.youdao.com&doctype=dw&memberid=110636&tn=text_250_250&width=250&height=250&posid=203&ref2=https://dict.youdao.com&syndid=57&time=1506422541185"
+1506422541464	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://impservice.youdao.com/imp/request.s?req=https%3A%2F%2Fdict.youdao.com&doctype=dw&memberid=110636&tn=text_960_60&width=960&height=60&posid=202&ref2=https://dict.youdao.com&syndid=57&time=1506422541185"
+1506422541692	Marionette	DEBUG	Received DOM event "pageshow" for "https://impservice.youdao.com/imp/request.s?req=https%3A%2F%2Fdict.youdao.com&doctype=dw&memberid=110636&tn=text_250_250&width=250&height=250&posid=203&ref2=https://dict.youdao.com&syndid=57&time=1506422541185"
+1506422541694	Marionette	DEBUG	Received DOM event "pageshow" for "https://impservice.youdao.com/imp/request.s?req=https%3A%2F%2Fdict.youdao.com&doctype=dw&memberid=110636&tn=text_960_60&width=960&height=60&posid=202&ref2=https://dict.youdao.com&syndid=57&time=1506422541185"
+1506422542159	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.youdao.com/w/eng/%E8%99%AB%E5%B8%88/#keyfrom=dict2.index"
+1506422544197	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+ the error codes.
 1500478162712	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
 1500478162712	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
 1500478162918	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.baidu.com/gaoji/preferences.html"

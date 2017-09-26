@@ -19,7 +19,7 @@ testAll.addTest(unittest.makeSuite(widgetTest.WidgetTestCase))
 
 # 定义报告
 time = time.strftime("%Y-%m-%d %H-%M-%S",time.localtime(time.time()))
-fileName = "../testLog/" + time + ' allTest.html'
+fileName = "../testResult/" + time + ' allTest.html'
 fp = file(fileName,'wb')
 
 runner = HTMLTestRunner.HTMLTestRunner(
